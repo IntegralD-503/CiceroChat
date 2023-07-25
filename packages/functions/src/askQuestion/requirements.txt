@@ -1,0 +1,12 @@
+boto3
+python-dotenv
+redis
+aioredis
+asyncio
+rejson
+pydantic
+langchain
+chromadb
+openai
+psycopg2-binary
+pgvector

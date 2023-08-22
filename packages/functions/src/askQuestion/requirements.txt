@@ -10,3 +10,4 @@ chromadb
 openai
 psycopg2-binary
 pgvector
+tiktoken

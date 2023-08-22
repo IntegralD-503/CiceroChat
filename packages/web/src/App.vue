@@ -9,3 +9,7 @@ export default defineComponent({
   name: 'App'
 })
 </script>
+
+<style>
+#app { padding: 0; }
+</style>

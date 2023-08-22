@@ -50,10 +50,10 @@ const linksList = [
     external: true,
   },
   {
-    title: 'Chat Bot',
-    caption: 'Ancient Roman Chat Bot',
+    title: 'Chat Bots',
+    caption: 'LLM powered ChatBots',
     icon: 'chat',
-    link: '/chat',
+    link: '/chatbots',
     external: false,
   },
   {

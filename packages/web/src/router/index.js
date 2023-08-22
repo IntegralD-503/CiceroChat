@@ -10,6 +10,12 @@ const router = createRouter({
     },
   
     {
+      path: '/chatbots',
+      component: () => import('../layouts/MainLayout.vue'),
+      children: [{ path: '', component: () => import('../pages/ChatBotsPage.vue') }],
+    },
+
+    {
       path: '/chat',
       component: () => import('../layouts/MainLayout.vue'),
       children: [{ path: '', component: () => import('../pages/ChatMessagePage.vue') }],

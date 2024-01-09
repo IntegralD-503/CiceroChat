@@ -30,7 +30,7 @@ export default defineComponent({
       chatbots: [
         {
           name: "Cicero",
-          description: "Ancient Roman Philospher and Statesmen. Your guide to everything to do with Ancient Rome."
+          description: "Ancient Roman Philospher and Statesmen. Your guide to everything to do with Ancient Rome. Click here to start a chat session.."
 
         },
         {
